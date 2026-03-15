@@ -1,7 +1,5 @@
 from datetime import datetime
 
-class from datetime import datetime
-
 class Patient:
     def __init__(self, name, age, illness):
         self.name = name

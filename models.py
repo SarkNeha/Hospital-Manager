@@ -1,10 +1,10 @@
 from datetime import datetime
 
 class Patient:
-    def __init__(self, name, age, illness, contact):
+    def __init__(self, name, age, Diagnosis, contact):
         self.name = name
         self.age = age
-        self.illness = illness
+        self.diagnosis = Diagnosis
         self.contact = contact
         self.admission_time = datetime.now()
 

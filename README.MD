@@ -120,7 +120,7 @@ http://127.0.0.1:5000
 
 ## Author
 
-Student Project – CSC202 Continuous Assessment
+Sneha Sarker – CSC202 Continuous Assessment
 
 ---
 
